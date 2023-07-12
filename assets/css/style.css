@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(purple, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#Header {
+    color:aqua;
+    font-size: 50px;
+}
+#pages {
+    color:red; 
+    font-size:18px;
+}
+#index {
+    color:beige;
+    font-size: 50px;
+}
+#vHeader {
+    color:white;
+    font-size: 40px;
+}
+#normalVideolink {
+    color:aliceblue;
+    font-size: 40px;
+}
